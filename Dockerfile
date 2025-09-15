@@ -1,5 +1,5 @@
 # Use JDK 21 base image
-FROM eclipse-temurin:21-jdk-jammy
+FROM eclipse-temurin:17-jdk-jammy
 
 # Set working directory
 WORKDIR /app
